@@ -1,10 +1,11 @@
 import React from "react";
+import Layout from "../../components/Layout";
 
 function EventPage() {
   return (
-    <div>
+    <Layout>
       <h1>My Event 1</h1>
-    </div>
+    </Layout>
   );
 }
 
